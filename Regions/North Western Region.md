@@ -1,0 +1,1 @@
+Lawless Area. Lots of pirates. Lots of homesteads and old castles. Lots of minor factions.

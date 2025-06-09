@@ -1,0 +1,1 @@
+Three islands in [[Northeastern Region]] which have a puzzle. The three outer islands have a compass like device and the name of an island. the players must point the compass towards the islands that intersect.

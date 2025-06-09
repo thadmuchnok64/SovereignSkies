@@ -1,0 +1,1 @@
+A set of islands in [[Northeastern Region]] which is a traditional pirate town with a lot of shady people and black markets.

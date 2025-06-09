@@ -1,0 +1,1 @@
+An elderly monkey monk who trained [[The Giant Evil Gorilla]]

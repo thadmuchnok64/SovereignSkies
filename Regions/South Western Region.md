@@ -1,0 +1,1 @@
+Has a heavy [[The Falcon Federation]] presence, with a lot of pirate gangs on the outskirts

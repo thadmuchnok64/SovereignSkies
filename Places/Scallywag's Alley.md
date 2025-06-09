@@ -1,0 +1,1 @@
+Kinda like skid row. Lots of poverty. Lots of gangs and crime.

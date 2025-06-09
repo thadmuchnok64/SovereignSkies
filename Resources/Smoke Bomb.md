@@ -1,0 +1,1 @@
+Effects of darkness for 5 turns when thrown
