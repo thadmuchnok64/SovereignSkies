@@ -23,7 +23,7 @@ Towns:
 
 Faction Presence:
 [[Colonials]]
-[[The Falcon Federation]]
+[[The Federation of Falconia]]
 [[The Drifters]]
 
 

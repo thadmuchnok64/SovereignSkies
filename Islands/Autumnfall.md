@@ -12,7 +12,7 @@ Probably the magical capital of the [[Northeastern Region]]
 
 Used to be attatched to [[Ravishing Maiden]]. Lots of elves still like hanging out there.
 
-Has a large supply of [[Wood]] which it trades to the [[Colonials]] and [[The Falcon Federation]]
+Has a large supply of [[Wood]] which it trades to the [[Colonials]] and [[The Federation of Falconia]]
 
 # Places of Interest
 [[Timber Crossing]] The largest village on the island. Has a lot of magic and churches shops

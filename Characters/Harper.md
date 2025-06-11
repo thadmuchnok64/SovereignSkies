@@ -13,7 +13,7 @@ Takes a special liking toward [[Skungloh]] because of his engineering "skill"
 
 "Look, I'm going to be honest. Steinhafen is a great place, and I love the people there, but they're not fighters."
 
-"Relations with the [[The Falcon Federation]] have been souring a little bit. We depend on them for survival. They keep saying that people aren't returning from Backwater Bay and we have no idea why. We do see a lot of their ships leaving from steinhafen and headed towards monkey island though.
+"Relations with the [[The Federation of Falconia]] have been souring a little bit. We depend on them for survival. They keep saying that people aren't returning from Backwater Bay and we have no idea why. We do see a lot of their ships leaving from steinhafen and headed towards monkey island though.
 
 Monkey island isnt a dangerous place. We've always had pleasant trades with them."
 
