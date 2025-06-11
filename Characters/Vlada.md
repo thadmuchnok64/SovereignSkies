@@ -35,3 +35,16 @@ actions:
 Weapons:
 Dagger: 1d4 piercing 
 Armor: Nothing (dirty mining outfit)
+
+___
+Approaches major Amadeus
+Appears to be holding a piece of paper. Looks at Amadeus for a second.
+
+Hands him the piece of paper.
+
+The piece of paper appears to be a drawing of a horse.
+
+She then points at Amadeus.
+
+Then she walks away.
+
