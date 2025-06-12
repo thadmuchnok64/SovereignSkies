@@ -10,4 +10,6 @@ Notable locations: [[Ashford University]]
 [[Guns Galore]]
 [[Whiskey Row]]
 
+has a crackdown on [[Busterdust]]. Trade is pretty common there.
+
 Most of the locals and higher ups hate [[Stowaway]] as they blame it for the source of crime nearby

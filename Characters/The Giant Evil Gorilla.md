@@ -15,7 +15,7 @@ Is currently in pursuit of [[Banana Islands]] in order to steal an ancient monke
 Used to be a monk on banana island but was exiled because of his merciless nature and dark hatred within him.
 
 Seeking to collect [[The Archobanana]] from the [[Banana Islands]]
-He must confront his old master: [[Master Moshi]], who is upset with Gregory for abandoning his promising future for a life of murder and dissapointing his bloodline.
+He must confront his old master: [[Master Bobo]], who is upset with Gregory for abandoning his promising future for a life of murder and dissapointing his bloodline.
 
 
 ___

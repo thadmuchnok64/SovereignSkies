@@ -1,0 +1,1 @@
+mystical creatures. Lots of them live on [[Autumnfall]] but they live pretty much all over the place. Go into hibernation during [[Amberdawn]]
