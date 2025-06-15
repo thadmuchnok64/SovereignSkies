@@ -19,7 +19,9 @@ Lets the user disengage as a bonus action once per short rest.
 Damage: 2d4 slashing + 1 necrotic
 [Orc Skin Gloves] adds +4 to rolls for strength ONLY when used to carry or throw items.
 [Ring of Wind] On an action, can create a 1x1x1 ft cloud on a point. The cloud then blows a stream of a strong wind at that point
-[Brace of the Wind] Gives user +10 ft of movement.
+[Brace of Zephyr] Gives user +10 ft of movement.
+[Dagger of Backstabbing] 1d4 +1 slashing.
++2 damage when the user is flanking or stealth attacking.
 
 [Boots of Double Jump] User can perform an additional jump in mid air. 3 uses per long rest.
 [Scarf of Social Distancing] Smells kinda weird. Gives +1 AC so long as there are no enemies within a 15 ft radius of you.

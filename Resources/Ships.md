@@ -10,13 +10,13 @@ Sails AC: 13
 Front Cannon Slots: Harpoon Launcher, Cannon
 Back Cannon Slots: Cannon, Cannon
 
-| Ship Inventory |     |
-| -------------- | --- |
-| Boards         | 35  |
-| Cannon balls   | 20  |
-| Gunpowder      | 40  |
-| Rations        | 40  |
-| Nails          | 60  |
+| Ship Inventory |     |     |
+| -------------- | --- | --- |
+| Boards         | 46  |     |
+| Cannon balls   | 32  |     |
+| Gunpowder      | 60  |     |
+| Rations        | 104 |     |
+| Nails          | 60  |     |
 
 
 [Ship Combat Actions]
@@ -48,7 +48,7 @@ Doubles the speed of the ship
 
 **Cannon**
 |**Cannon Ball.** Ranged Weapon Attack: +6 to hit ships. -4 to hit large enemies or smaller, range 600/2,400 ft., one target. 
-_Hit_: 44 (8d10) bludgeoning damage.|
+_Hit_: 44 (7d10) bludgeoning damage.|
 
 A cannon uses gunpowder to propel heavy balls of cast iron through the air at destructive speeds. In a campaign without gunpowder, a cannon might be an arcane device built by clever gnomes or wizardly engineers.
 

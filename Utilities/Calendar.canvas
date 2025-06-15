@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"adfd019b9aff6f63","type":"text","text":"Newleaf (Spring)\nThe most gentle time of the year\n","x":-51,"y":-260,"width":250,"height":120,"color":"4"},
+		{"id":"78d2efb883e8fbac","type":"text","text":"Amberdawn (Fall)\nSome undead reanimate themselves this time of year","x":-301,"y":-260,"width":250,"height":120,"color":"2"},
+		{"id":"cc836f3bac1c65f0","type":"text","text":"Inferna (Summer)\nThe air feels steamy.\nLots of storms this time of year\n","x":-227,"y":-140,"width":352,"height":120,"color":"1"},
+		{"id":"d0aea6543d9baf18","type":"text","text":"Frollaust (Winter)\nSnowfall kills most crops\n(Rations more expensive)\nNeed to stay warm on boats\n(2 wood consumed per day for fire)\n","x":-227,"y":-420,"width":352,"height":160,"color":"5"},
+		{"id":"7e87d94ec679a395","type":"text","text":"Green Harvest Festival\nDays 55-60","x":320,"y":-250,"width":250,"height":100,"color":"4"},
+		{"id":"065ea39aeb134f8f","type":"text","text":"New Years Festival\nDays 30-35","x":220,"y":-440,"width":250,"height":100,"color":"5"},
+		{"id":"42e3cad8e0477d6e","type":"text","text":"Orange Harvest Festival\nDays 55-60","x":-680,"y":-350,"width":250,"height":100,"color":"2"},
+		{"id":"f2cbacb7f71bf6ea","type":"text","text":"Week of Hollows\n(Fantasy Halloween)\nDays 30-35","x":-680,"y":-190,"width":250,"height":100,"color":"2"},
+		{"id":"e437a933b15ff424","type":"text","text":"Timber Hearth\n(Fantasy Christmas)\nDays 1-5","x":-591,"y":-520,"width":250,"height":100,"color":"5"},
+		{"id":"06909fba41b0d5af","type":"text","text":"Current Day: 56th of Greensprout, year 256 AU","x":-360,"y":260,"width":580,"height":60,"color":"#000000"},
+		{"id":"e6dd1eed489ee25a","type":"text","text":"Each season is 60 days","x":-238,"y":-550,"width":375,"height":60,"color":"#000000"},
+		{"id":"f901d3f1fd5581cf","type":"text","text":"Water Celebration\n(swim parties, parades)\nDays 30-35\n","x":-226,"y":40,"width":352,"height":120,"color":"1"}
+	],
+	"edges":[
+		{"id":"7f8cdb05f900294d","fromNode":"adfd019b9aff6f63","fromSide":"right","toNode":"7e87d94ec679a395","toSide":"left"},
+		{"id":"344ae8727e0a0d25","fromNode":"d0aea6543d9baf18","fromSide":"right","toNode":"065ea39aeb134f8f","toSide":"left"},
+		{"id":"4ac7c343a54309cb","fromNode":"78d2efb883e8fbac","fromSide":"left","toNode":"42e3cad8e0477d6e","toSide":"right"},
+		{"id":"1bc5361773301f43","fromNode":"78d2efb883e8fbac","fromSide":"left","toNode":"f2cbacb7f71bf6ea","toSide":"right"},
+		{"id":"cae8c8189555c8cf","fromNode":"d0aea6543d9baf18","fromSide":"left","toNode":"e437a933b15ff424","toSide":"right"},
+		{"id":"8c4defdc3861f8a5","fromNode":"cc836f3bac1c65f0","fromSide":"bottom","toNode":"f901d3f1fd5581cf","toSide":"top"}
+	]
+}

@@ -1,18 +1,20 @@
 {
 	"nodes":[
-		{"id":"4ac0a7727c6fcbc2","type":"text","text":"Giant Evil Gorilla 1 30 hp","x":-420,"y":220,"width":250,"height":60,"color":"1"},
-		{"id":"7870a580b32c9a9a","type":"text","text":"Zombie 5","x":-420,"y":89,"width":250,"height":61,"color":"1"},
-		{"id":"eeae91f3f36e5180","type":"text","text":"Squid 16","x":-420,"y":-2,"width":250,"height":61,"color":"1"},
-		{"id":"b294dda106c920ba","type":"text","text":"Tentacle 1 - 12","x":40,"y":-196,"width":250,"height":60,"color":"1"},
-		{"id":"d0e17f564a437a22","type":"text","text":"Mother - 9","x":40,"y":-102,"width":250,"height":60,"color":"1"},
-		{"id":"37044d8616c266ff","type":"text","text":"Finnegan 14\n","x":40,"y":-289,"width":250,"height":60},
-		{"id":"891e69cf82054e9c","type":"text","text":"Skunglo 16\n","x":40,"y":-380,"width":250,"height":60},
-		{"id":"a9d39c9d9437df0c","type":"text","text":"Zombie 18","x":-420,"y":-102,"width":250,"height":60,"color":"1"},
-		{"id":"76a12c15f9c21761","type":"text","text":"Drift 19\n","x":40,"y":-460,"width":250,"height":50},
-		{"id":"98961c58cd355120","type":"text","text":"Amadeus 19","x":40,"y":-540,"width":250,"height":60},
-		{"id":"51463d8376d9c16b","type":"text","text":"Turret\n","x":440,"y":-102,"width":250,"height":52},
-		{"id":"f61c44115c687da2","type":"text","text":"Tentacle 2 - 2","x":40,"y":89,"width":250,"height":60,"color":"1"},
-		{"id":"177cdd53100b8df4","type":"text","text":"Nubton 7","x":40,"y":-1,"width":250,"height":60}
+		{"id":"76a12c15f9c21761","type":"text","text":"Drift 16\n","x":40,"y":-460,"width":250,"height":50},
+		{"id":"106ad470d2efd721","type":"text","text":"Pirate  18","x":40,"y":-620,"width":250,"height":60,"color":"1"},
+		{"id":"891e69cf82054e9c","type":"text","text":"Skunglo 17\n","x":40,"y":-540,"width":250,"height":60},
+		{"id":"98961c58cd355120","type":"text","text":"Amadeus 13","x":40,"y":-302,"width":250,"height":60},
+		{"id":"9c558108614328a6","type":"text","text":"Pirate  14","x":40,"y":-380,"width":250,"height":60,"color":"1"},
+		{"id":"177cdd53100b8df4","type":"text","text":"Nubton 7","x":40,"y":-18,"width":250,"height":60},
+		{"id":"0c6981fee51d74e2","type":"text","text":"Pirate  7","x":40,"y":60,"width":250,"height":60,"color":"1"},
+		{"id":"82d5be50cdf66198","type":"text","text":"Pirate  9","x":40,"y":-131,"width":250,"height":60,"color":"1"},
+		{"id":"a9d39c9d9437df0c","type":"text","text":"Pirate Captain 18","x":40,"y":-720,"width":250,"height":60,"color":"1"},
+		{"id":"03c2d2e47660be1f","type":"text","text":"Pirate Captain 183","x":340,"y":-720,"width":250,"height":60,"color":"1"},
+		{"id":"73832b9aefd30199","type":"text","text":"205","x":-280,"y":-720,"width":250,"height":60,"color":"1"},
+		{"id":"37044d8616c266ff","type":"text","text":"Finnegan 13\n","x":40,"y":-220,"width":250,"height":60},
+		{"id":"349c823d005ec23e","type":"text","text":"Pirate  1 nat","x":40,"y":240,"width":250,"height":60,"color":"1"},
+		{"id":"b0a6745b80b92807","type":"text","text":"Artyom 17++\n","x":380,"y":-570,"width":250,"height":60},
+		{"id":"d583cc48acecdf17","type":"text","text":"Vlada 17++\n","x":380,"y":-490,"width":250,"height":60}
 	],
 	"edges":[]
 }

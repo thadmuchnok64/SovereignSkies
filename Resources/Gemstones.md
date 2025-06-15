@@ -10,7 +10,7 @@ All gemstones radiate a slight magical energy
 | Ruby         | 50g                 | Red                   |
 | Emerald      | 75g                 | Green                 |
 | Diamond      | 250g                | Clear Blue (variants) |
-|              |                     |                       |
+| Amethyst     | 30g                 | purple                |
 basically just double it for large ones... half it for smaller
 
 | Gem (Large)  | Approx market value |
