@@ -1,0 +1,1 @@
+Tato is an elf monk which has clear white eyes. He appears to be blind. He wears rags and seems to resemble a beggar. He likes to scam people who think he's a beggar.
