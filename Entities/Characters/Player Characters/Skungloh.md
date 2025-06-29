@@ -7,3 +7,6 @@ Banished by his clan. Racist towards gnomes
 
 I want to propose introducing skungloh to the [[Infernal God (Gwyn)]]
 
+Wants to be the biggest baddest pirate on the seas. Seeks infamy. 
+
+Wants to be like a dragon.

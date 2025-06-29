@@ -6,6 +6,11 @@ He sells lots of stuff like potions and magic items.
 
 Seems to vibe with [[Veritaz P Nubton]] quite a bit
 
+[Known bell locations]
+[[SteinHafen]] (hidden)
+[[Thieve's Hideaway]]
+
+
 CART MAGIC ITEM STOCK:
 
 [Clockwork Amulet](https://dnd5e.wikidot.com/wondrous-items:clockwork-amulet)

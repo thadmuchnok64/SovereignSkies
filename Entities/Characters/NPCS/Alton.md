@@ -1,5 +1,7 @@
 The bartender and treasurer of the [[Thieves Guild]]
 
+Based on askeladd
+
 Will buy any treasure from the players.
 
 "Hmm... I dont think I've ever bought a whole ass BOAT before..."

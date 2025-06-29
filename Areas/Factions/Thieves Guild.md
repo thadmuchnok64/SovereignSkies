@@ -5,6 +5,8 @@ members:
 [[Karliah]]
 [[Alton]]
 [[Gemma]]
+[[Bardock]]
+
 and a bunch of randos
 
 

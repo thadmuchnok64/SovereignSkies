@@ -15,7 +15,7 @@ Back Cannon Slots: Cannon, Cannon
 | Boards         | 46  |     |
 | Cannon balls   | 32  |     |
 | Gunpowder      | 60  |     |
-| Rations        | 104 |     |
+| Rations        | 97  |     |
 | Nails          | 60  |     |
 
 
