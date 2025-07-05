@@ -50,3 +50,19 @@ often bites but seldom bit,
 
 to use me well you must have wit.
 
+
+
+After they get to the end, the gang finds a tomb of a vampire slayer. The skeleton has a whip in his right hand. A key on his belt, and a letter stuffed into his breastpoket
+
+The letter says "if youre reading this and not my great grand son, put this letter back immediately. The fate of the seas depends on you putting it back!
+
+Anyway, grandson... you came looking for answers. It is unfortunate i could not meet you in your lifetime.
+
+The blood of the Archotechs surges through you. Are you worthy to seal away the evil in your time? The legacy of our bloodline rests on your shoulders.
+
+I presume that demonic blood sucking bastard is back. If you truly have what it takes, take this whip and key to Oakbrook Manor and put him away for another century.
+
+Good luck grandson. I will be watching over you.
+
+PS: if you find my mother, [[Lydia]]'s, ashes. Can you bring them to [[Ashford University]]? It's what she would have wanted."
+
