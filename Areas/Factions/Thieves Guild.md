@@ -4,7 +4,7 @@ members:
 [[Tato]]
 [[Karliah]]
 [[Alton]]
-[[Gemma]]
+[[Gemma 1]]
 [[Bardock]]
 
 and a bunch of randos

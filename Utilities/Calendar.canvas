@@ -9,7 +9,7 @@
 		{"id":"42e3cad8e0477d6e","type":"text","text":"Orange Harvest Festival\nDays 55-60","x":-680,"y":-350,"width":250,"height":100,"color":"2"},
 		{"id":"f2cbacb7f71bf6ea","type":"text","text":"Week of Hollows\n(Fantasy Halloween)\nDays 30-35","x":-680,"y":-190,"width":250,"height":100,"color":"2"},
 		{"id":"e437a933b15ff424","type":"text","text":"Timber Hearth\n(Fantasy Christmas)\nDays 1-5","x":-591,"y":-520,"width":250,"height":100,"color":"5"},
-		{"id":"06909fba41b0d5af","type":"text","text":"Current Day: 56th of Greensprout, year 256 AU","x":-360,"y":260,"width":580,"height":60,"color":"#000000"},
+		{"id":"06909fba41b0d5af","type":"text","text":"Current Day: 57th of Newleaf, year 256 AU","x":-360,"y":260,"width":580,"height":60,"color":"#000000"},
 		{"id":"e6dd1eed489ee25a","type":"text","text":"Each season is 60 days","x":-238,"y":-550,"width":375,"height":60,"color":"#000000"},
 		{"id":"f901d3f1fd5581cf","type":"text","text":"Water Celebration\n(swim parties, parades)\nDays 30-35\n","x":-226,"y":40,"width":352,"height":120,"color":"1"}
 	],
