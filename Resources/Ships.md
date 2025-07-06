@@ -12,11 +12,11 @@ Back Cannon Slots: Cannon, Cannon
 
 | Ship Inventory |     |     |
 | -------------- | --- | --- |
-| Boards         | 46  |     |
+| Boards         | 41  |     |
 | Cannon balls   | 32  |     |
 | Gunpowder      | 60  |     |
-| Rations        | 97  |     |
-| Nails          | 60  |     |
+| Rations        | 83  |     |
+| Nails          | 40  |     |
 
 
 [Ship Combat Actions]
@@ -32,8 +32,8 @@ Outcomes/
 | --------- | ----------------------- |
 | Crit Miss | Increase damage by 1d12 |
 | Fail      | Nothing                 |
-| Pass      | Recover 4d12 health     |
-| Crit Pass | Recover 8d12 health     |
+| Pass      | Recover 25 health       |
+| Crit Pass | Recover 75 health       |
 
 **Board**
 *Anybody can perform.*

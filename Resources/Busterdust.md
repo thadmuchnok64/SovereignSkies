@@ -34,3 +34,6 @@ Addiction chart:
 | 8+            | 18           |
 Addiction: Negates all the previous benefits UNLESS the user consumes dust. Gets rid of the donwsides for a day
 Also makes the user's skin "explosive" (x2 fire damage)
+
+
+Finnegan has used busterdust twice

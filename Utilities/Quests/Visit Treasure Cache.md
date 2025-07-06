@@ -54,7 +54,7 @@ to use me well you must have wit.
 
 After they get to the end, the gang finds a tomb of a vampire slayer. The skeleton has a whip in his right hand. A key on his belt, and a letter stuffed into his breastpoket
 
-The letter says "if youre reading this and not my great grand son, put this letter back immediately. The fate of the seas depends on you putting it back!
+The letter says "if you're reading this and not my great grand son, put this letter back immediately. The fate of the seas depends on you putting it back!
 
 Anyway, grandson... you came looking for answers. It is unfortunate i could not meet you in your lifetime.
 

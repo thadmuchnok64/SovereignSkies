@@ -1,20 +1,15 @@
 {
 	"nodes":[
-		{"id":"76a12c15f9c21761","type":"text","text":"Drift 16\n","x":40,"y":-460,"width":250,"height":50},
-		{"id":"106ad470d2efd721","type":"text","text":"Pirate  18","x":40,"y":-620,"width":250,"height":60,"color":"1"},
-		{"id":"891e69cf82054e9c","type":"text","text":"Skunglo 17\n","x":40,"y":-540,"width":250,"height":60},
-		{"id":"98961c58cd355120","type":"text","text":"Amadeus 13","x":40,"y":-302,"width":250,"height":60},
-		{"id":"9c558108614328a6","type":"text","text":"Pirate  14","x":40,"y":-380,"width":250,"height":60,"color":"1"},
-		{"id":"177cdd53100b8df4","type":"text","text":"Nubton 7","x":40,"y":-18,"width":250,"height":60},
-		{"id":"0c6981fee51d74e2","type":"text","text":"Pirate  7","x":40,"y":60,"width":250,"height":60,"color":"1"},
-		{"id":"82d5be50cdf66198","type":"text","text":"Pirate  9","x":40,"y":-131,"width":250,"height":60,"color":"1"},
-		{"id":"a9d39c9d9437df0c","type":"text","text":"Pirate Captain 18","x":40,"y":-720,"width":250,"height":60,"color":"1"},
-		{"id":"03c2d2e47660be1f","type":"text","text":"Pirate Captain 183","x":340,"y":-720,"width":250,"height":60,"color":"1"},
-		{"id":"73832b9aefd30199","type":"text","text":"205","x":-280,"y":-720,"width":250,"height":60,"color":"1"},
-		{"id":"37044d8616c266ff","type":"text","text":"Finnegan 13\n","x":40,"y":-220,"width":250,"height":60},
-		{"id":"349c823d005ec23e","type":"text","text":"Pirate  1 nat","x":40,"y":240,"width":250,"height":60,"color":"1"},
 		{"id":"b0a6745b80b92807","type":"text","text":"Artyom 17++\n","x":380,"y":-570,"width":250,"height":60},
-		{"id":"d583cc48acecdf17","type":"text","text":"Vlada 17++\n","x":380,"y":-490,"width":250,"height":60}
+		{"id":"d583cc48acecdf17","type":"text","text":"Vlada 17++\n","x":380,"y":-490,"width":250,"height":60},
+		{"id":"76a12c15f9c21761","type":"text","text":"Drift 21\n","x":40,"y":-710,"width":250,"height":50},
+		{"id":"37044d8616c266ff","type":"text","text":"Finnegan 7+++","x":40,"y":-610,"width":250,"height":60},
+		{"id":"689d4e0374e897ed","type":"text","text":"Skeleton  7++","x":40,"y":-520,"width":250,"height":60,"color":"1"},
+		{"id":"30b490787b19495d","type":"text","text":"wheel skel  7+","x":40,"y":-420,"width":250,"height":60,"color":"1"},
+		{"id":"9c558108614328a6","type":"text","text":"Skeleton  7","x":40,"y":-312,"width":250,"height":60,"color":"1"},
+		{"id":"891e69cf82054e9c","type":"text","text":"Skunglo 5\n","x":40,"y":-200,"width":250,"height":60},
+		{"id":"177cdd53100b8df4","type":"text","text":"Nubton 3","x":40,"y":-80,"width":250,"height":60},
+		{"id":"98961c58cd355120","type":"text","text":"Amadeus nat1","x":40,"y":20,"width":250,"height":60}
 	],
 	"edges":[]
 }
