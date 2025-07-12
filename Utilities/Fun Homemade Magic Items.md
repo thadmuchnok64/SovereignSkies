@@ -1,4 +1,4 @@
-
+s
 ==[Wrench of The Duergar] A magical wrench that which creates an incredibly powerful bond to pieces of metal. The magnet can be turned on or off with a button on the wrench.
 
 The wrench will attract metals if the objects are lighter than the wrench (5 pounds), or the wrench will be attracted to heavier objects in a 5 ft radius.
@@ -18,13 +18,25 @@ Lets user add +1 to tinkering checks
 Lets the user disengage as a bonus action once per short rest.
 Damage: 2d4 slashing + 1 necrotic
 [Orc Skin Gloves] adds +4 to rolls for strength ONLY when used to carry or throw items.
-[Ring of Wind] On a bonus action, can create a 1x1x1 ft cloud on a point. The cloud then blows a stream of a very strong wind for 20ft at that point
-[Brace of Zephyr] Gives user +10 ft of movement.
+[Ring of Wind] On a bonus action, can create a 5 ft cube cloud on a point. The cloud then blows a stream of a very strong wind for 20ft at an additional point you can see.
+[Brace of Zephyr] Gives user +10 ft of movement. Also makes a cool blue trail when you run.
 [Dagger of Backstabbing] 1d4 +1 slashing.
 +2 damage when the user is flanking or stealth attacking.
 
+[Goblet Of Mead O Plenty] A goblet that will refill with mead every night at midnight
+
+[Vampiric Morningstar] Spiked mace with a comfortable handle. Feels lighter than it looks when held by the handle. Silver, with barbed spikes on the tip.
+When attacking with this weapon, you deal *half* damage but will *heal* equal to the amount of damage you do.
+On a crit, you use the entire dice value instead of half.
+
+| Damage          | Damage Type | Weight |
+| --------------- | ----------- | ------ |
+| 1d8 +1 necrotic | Piercing    | 6 lbs  |
+
+
+
 [Boots of Double Jump] User can perform an additional jump in mid air. 3 uses per long rest.
-[Scarf of Social Distancing] Smells kinda weird. Gives +1 AC so long as there are no enemies within a 15 ft radius of you.
+[Scarf of The Scaredy Cat] Smells kinda weird. Gives +1 AC so long as there are no enemies within a 15 ft radius of you.
 
 
 ___
