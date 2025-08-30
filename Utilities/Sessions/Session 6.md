@@ -10,6 +10,6 @@ Ultimately they get the key to oak brook manor from that place. And the castleva
 From there, they'll probably decide to go to either the firework quest or the castle
 
 [[Storm Oakbrook Castle]]
-[[Stowaway and Martin's Fireworks]]
+[[Reclaim Martin's Fireworks]]
 
 After that, they level up.

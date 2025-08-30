@@ -5,7 +5,7 @@ If the gang goes on the tiny island near olive harbor
 
 They find a note that says:
 
-"Once you get the boom booms, bring them to the Northernmost part of the most Southern Island in Salty Coast. And for the love of the gods remember to destroy this note this time! We don't want another banana-situation on our hands, now do we?"
+"Once you get the boom booms, bring them to the brick house without windows in the lowest part of [[Scallywag's Alley]]. And for the love of the gods remember to destroy this note this time! We don't want another banana-situation on our hands, now do we?"
 
 -[[Blartin]]
 

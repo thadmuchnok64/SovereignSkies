@@ -1,4 +1,4 @@
-lives in [[Stowaway]]
+lives in [[Stowaway]], [[Riften]]
 Owns [[Fancy Fireworks]]
 
 ___

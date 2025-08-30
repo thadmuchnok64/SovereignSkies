@@ -24,5 +24,5 @@ After they leave, on the first day of travel, the party is approached by a brigg
 Things the players could do:
 [[Visit Treasure Cache]]
 [[Capture or Kill Gregory]]
-[[Stowaway and Martin's Fireworks]]
+[[Reclaim Martin's Fireworks]]
 [[Explore the eye of the storm]]

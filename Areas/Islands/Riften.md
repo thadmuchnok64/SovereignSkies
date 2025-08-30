@@ -2,13 +2,22 @@ The largest city in [[Backwater Bay]] and under [[The Federation of Falconia]] r
 
 Two major setions. Market side [East] and residential[West]
 
-Notable locations: [[Ashford University]]
-[[Jiminy's House Of Wonders]], the largest magic item shop in the [[Northeastern Region]]
-[[Federation Hall]], the main governmental embassy of Riften. 
+Notable locations:
+
+Western Riften:
+[[Federation Hall]] in the , the main governmental embassy of Riften.
 [[Wyvern Racing Stadium]]
-[[Scallywag's Alley]]
+[[Ashford University District]]
+[[Museum of Ancient Machinery]]
+
+Eastern Riften:
+[[Jiminy's House Of Wonders]], the largest magic item shop in the [[Northeastern Region]]. Also has a small library of magical books and scrolls.
 [[Guns Galore]]
+[[Coconut Construction and Bulk Goods]]
 [[Whiskey Row]]
+[[Scallywag's Alley]]
+
+
 
 has a crackdown on [[Busterdust]]. Trade is pretty common there.
 
