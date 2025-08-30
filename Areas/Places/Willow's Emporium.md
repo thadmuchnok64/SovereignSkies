@@ -9,7 +9,7 @@ Has a huge pile of packaged ration meals with a little lorie to load them onto a
 | ------------------------------------- | ----- |
 | Healing potion                        | 60g   |
 | 25 ft rope                            | 1g    |
-| box of 12 Rifle bullets               | 15G   |
+| box of 12 Rifle bullets               | 20G   |
 | box of 10 Pistol Bullets              | 10G   |
 | Torch                                 | 5c    |
 | Ration (1 day)                        | 5s    |

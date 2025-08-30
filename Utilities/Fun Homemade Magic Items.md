@@ -16,12 +16,22 @@ Lets user add +1 to tinkering checks
 [Boots of the Coyote] Allows the wearer to run on air for 10 meters. Will only activate if the user is running. Cannot be activated by jumping or falling. Can be used to perform a running jump.
 [Ghostly Cutlass] Crested with a skull on the handle, makes a cool trail of neon green when you swing it.
 Lets the user disengage as a bonus action once per short rest.
-Damage: 2d4 slashing + 1 necrotic
+[Mind Stealing Cutlass] Cutlass reinforced with the bones of a strange creature.
+Damage: 2d4 slashing + 2 psychic damage
+Once per short rest, the user can attempt to *Mind Steal*.
+To perform a mind steal, the user must roll an attack roll, then deal normal damage if succeeded.
+If succeeded, also roll a charisma roll.
+The enemy will need to roll a wisdom save equal or greater to this.
+If the enemy fails, the user has full control over their next turn.
+
+If the user successfully mind steals, they will not be able to do so again until a short rest.
+
 [Orc Skin Gloves] adds +4 to rolls for strength ONLY when used to carry or throw items.
 [Ring of Wind] On a bonus action, can create a 5 ft cube cloud on a point. The cloud then blows a stream of a very strong wind for 20ft at an additional point you can see.
-[Brace of Zephyr] Gives user +10 ft of movement. Also makes a cool blue trail when you run.
+[Brace of Zephyr] Gives user +10 ft of movement (also applies in the air if the user can fly in any way). Also makes a cool blue trail when you run.
 [Dagger of Backstabbing] 1d4 +1 slashing.
 +2 damage when the user is flanking or stealth attacking.
+[ring of mounting] +2 ac when mounting a creature
 
 [Goblet Of Mead O Plenty] A goblet that will refill with mead every night at midnight
 

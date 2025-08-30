@@ -1,7 +1,7 @@
 Ships require a lot of [[Wood]] and [[Bamboo Cloth]]
 
 [Caravel]
-Health: *250*/250
+Health: *190/250
 Hits: None (ex: 2 Shots on Hull, 1 on sails)
 Speed (combat): 100ft
 Speed (travel): 10 mph
@@ -12,11 +12,11 @@ Back Cannon Slots: Cannon, Cannon
 
 | Ship Inventory |     |     |
 | -------------- | --- | --- |
-| Boards         | 41  |     |
+| Boards         | 36  |     |
 | Cannon balls   | 32  |     |
 | Gunpowder      | 60  |     |
-| Rations        | 83  |     |
-| Nails          | 40  |     |
+| Rations        | 37  |     |
+| Nails          | 146 |     |
 
 
 [Ship Combat Actions]

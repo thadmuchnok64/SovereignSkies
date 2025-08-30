@@ -6,6 +6,8 @@ Friends with [[Vlada]]
 Personality: Paranoid
 What he wants: To proove he's useful to the crew
 
+has 1 bean
+
 Class: Fighter
 Fightings style: either archery or great weapon fighting
 ```statblock
