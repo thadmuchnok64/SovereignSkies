@@ -13,4 +13,5 @@ Also has a building for each school of magic:
 [College of Transmutation] Patchwork building that is constantly falling apart, and being rebuilt.
 [College of Divination] Churchy. [[Tato]] sometimes visits this place.
 [College of Enchantment] Seems to be where most of the student government lives. Resembles a roman governmental building.
-[College of Illusion] Almost perfectly silent inside here. Resembles a mansion.
+[College of Illusion] Almost perfectly silent inside here. Resembles a mansion.\
+[College of Chronurgy] Kinda just a small building. Doesnt get much funding
