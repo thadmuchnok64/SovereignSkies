@@ -10,13 +10,22 @@ Or they can park in scallywag's alley for 5 copper per day
 * Harper explains that riften is split into an east side and a west side. The western side is mostly governmental and the university, and some housing.
 * Eastern side is where most commerce happens.
 
+The gang can see [[Federation Hall]]. Before it, there is quite a lot of angry peasants crowding around the base of the wall which supports the base of the federation hall
+
+the protesters seem to can concerned with the lack of food and wealth distribution
+"That bastard king doesn't care about us! He'd rather vacation in the banana islands than feed us!"
+
 There seems to be a distressed old man banging on a door to a building that says "CITIZEN'S AFFAIRS" It seems to be a part of the governmental district.
 
-The gaurds dont seem to care.
+The gaurds dont seem to care. They seem more more occupied with managing the protesters while the king is away. They left a skeleton crew at citizens affairs.
 
 "WHO TOOK-A MY-A FIREWORKS-A"
-"THESE GOD-A-DAMN BANDITS KEEP TAKING THEM"
+"THESE GOD-A-DAMN POWDERHEADS KEEP TAKING THEM"
 Then they can do that quest or not [[Reclaim Martin's Fireworks]]
+
+Otherwise, they continue on to [[Ashford University District]], they can see [[Museum of Ancient Machinery]]
+
+
 
 
 

@@ -10,13 +10,14 @@ Sails AC: 13
 Front Cannon Slots: Harpoon Launcher, Cannon
 Back Cannon Slots: Cannon, Cannon
 
-| Ship Inventory |     |     |
-| -------------- | --- | --- |
-| Boards         | 36  |     |
-| Cannon balls   | 32  |     |
-| Gunpowder      | 60  |     |
-| Rations        | 37  |     |
-| Nails          | 146 |     |
+| Ship Inventory |     |           |
+| -------------- | --- | --------- |
+| Boards         | 36  |           |
+| Cannon balls   | 32  |           |
+| Gunpowder      | 60  |           |
+| Rations        | 58  | 16 (meat) |
+| Nails          | 146 |           |
+| Empty barrels  | 8   |           |
 
 
 [Ship Combat Actions]

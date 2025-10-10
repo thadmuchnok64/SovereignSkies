@@ -24,6 +24,8 @@ If succeeded, also roll a charisma roll.
 The enemy will need to roll a wisdom save equal or greater to this.
 If the enemy fails, the user has full control over their next turn.
 
+[Animal Teeth Necklace] Perpetually replicates the effects of [Speak With Animals Spell]
+
 If the user successfully mind steals, they will not be able to do so again until a short rest.
 
 [Orc Skin Gloves] adds +4 to rolls for strength ONLY when used to carry or throw items.

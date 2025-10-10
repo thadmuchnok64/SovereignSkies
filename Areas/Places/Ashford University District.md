@@ -1,7 +1,7 @@
 Where [[Finnegan]] studied
 [[Lydia]] was on the board of directors when the university was just starting out
 
-"Sorry, due to some of our students being harassed by Scallywags, we're closing university buildings off from non-current-students. or faculty"
+"Sorry, due to some of our students being harassed by the scum from scallywag's alley, we're closing university buildings off from non-current-students. or faculty"
 
 Has a magic library, a beautiful, large church
 

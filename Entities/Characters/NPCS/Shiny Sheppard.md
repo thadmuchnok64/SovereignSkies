@@ -1,0 +1,1 @@
+a pawn shop in [[Olive Harbor]] run by [[Linda]]

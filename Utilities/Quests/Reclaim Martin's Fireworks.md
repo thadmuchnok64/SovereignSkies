@@ -24,8 +24,7 @@ Theres a homeless scitzoid druggie that the party can pay for information (10g? 
 "Yeh, I think I may have seen a guy"
 "Think he was holing up in that "
 
-
-Party may notice a faint trail of gunpowder
+Party may notice a faint trail of gunpowder (dc 18)
 They find a note that says:
 
 The trail seems to lead to this rusty door. It takes some effort to get it open.
@@ -35,7 +34,7 @@ When opening the door, the party sees the remains of some banana peels, and a bi
 There also is a note there.
 
 ~~~
-Eugene,
+Wonderbob,
 
 Once you get the boom booms, bring them to the red brick wall. There's a secret door there. Knock twice, pause, then knock three times. And for the love of the gods remember to destroy this note this time! We don't want another banana-situation on our hands, now do we?
 
@@ -47,7 +46,7 @@ on his encampment, has has enslaved a fairy named [[Arietta]] for pixiedust (The
 
 
 Notable foes:
-[[Eugene]]
+[[Wonderbob]]
 [[Blartin]]
 If the team is able to defeat or go past them, they find two barrels of [[Busterdust]]
 3 [[BusterBombs]]

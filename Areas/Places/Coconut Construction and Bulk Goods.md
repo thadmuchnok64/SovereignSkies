@@ -5,3 +5,9 @@ Sells a ton of fruit in general
 
 Run by a monkey with suspenders and glasses
 "Oh... We prefer to distance ourselves from Gregory. We don't condone or tolerate his actions."
+
+
+| Item              | Cost | notes      |
+| ----------------- | ---- | ---------- |
+| Barrel of Bananas | 15g  | 20 rations |
+| Sack of Coconuts  | 45g  | 70 rations |
