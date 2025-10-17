@@ -15,6 +15,8 @@ The gang can see [[Federation Hall]]. Before it, there is quite a lot of angry p
 the protesters seem to can concerned with the lack of food and wealth distribution
 "That bastard king doesn't care about us! He'd rather vacation in the banana islands than feed us!"
 
+Skungloh immediately sees a tailor when getting off the boat. This shop is [[Frannie Twin's Fabrics]]
+
 There seems to be a distressed old man banging on a door to a building that says "CITIZEN'S AFFAIRS" It seems to be a part of the governmental district.
 
 The gaurds dont seem to care. They seem more more occupied with managing the protesters while the king is away. They left a skeleton crew at citizens affairs.
