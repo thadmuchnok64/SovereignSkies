@@ -2,3 +2,4 @@ A [[Fairies|Fairy]] who was enslaved by [[Blartin]] in order to produce [[pixie 
 
 Lives in [[Autumnfall]] near the wood elves.
 
+![[fairy.jpg]]

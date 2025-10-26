@@ -6,6 +6,7 @@ Notable locations:
 
 Western Riften:
 [[Federation Hall]] in the , the main governmental embassy of Riften.
+[[Frannie Twin's Fabrics]]
 [[Wyvern Racing Stadium]]
 [[Ashford University District]]
 [[Museum of Ancient Machinery]]
