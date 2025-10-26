@@ -3,7 +3,7 @@ The player's faction
 Members:
 [[Captain Solomon's Drift]]
 [[Major (Crew Chief) Amadeus]]
-[[Veritaz P Nubton]]
+[[Veritoss P Nubton]]
 [[Finnegan]]
 [[Skungloh]]
 

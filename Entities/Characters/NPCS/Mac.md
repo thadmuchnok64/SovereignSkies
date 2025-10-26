@@ -1,0 +1,1 @@
+[[The Federation of Falconia]] soldier patrolling around [[Olive Harbor]] with another unamed soldier.[[Mac]]

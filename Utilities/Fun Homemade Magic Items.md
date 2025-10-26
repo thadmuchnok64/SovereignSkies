@@ -23,6 +23,8 @@ To perform a mind steal, the user must roll an attack roll, then deal normal dam
 If succeeded, also roll a charisma roll.
 The enemy will need to roll a wisdom save equal or greater to this.
 If the enemy fails, the user has full control over their next turn.
+[Rodent Slippers] When worn, these slippers give the user +4 to stealth.
+Also allows the user to use "reduce" on themselves once per long rest.
 
 [Animal Teeth Necklace] Perpetually replicates the effects of [Speak With Animals Spell]
 

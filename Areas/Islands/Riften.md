@@ -13,11 +13,11 @@ Western Riften:
 Eastern Riften:
 [[Jiminy's House Of Wonders]], the largest magic item shop in the [[Northeastern Region]]. Also has a small library of magical books and scrolls.
 [[Guns Galore]]
-[[Coconut Construction and Bulk Goods]]
 [[Whiskey Row]]
 [[Scallywag's Alley]]
 [[Raven's Alchemy]]
-
+[[The Lusty Lagoon]]
+[[Brie's Cheese House]]
 
 has a crackdown on [[Busterdust]]. Trade is pretty common there.
 

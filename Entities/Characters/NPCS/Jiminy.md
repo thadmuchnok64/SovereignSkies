@@ -4,7 +4,7 @@ Hangs around the [[Northeastern Region]]. Has a shop in [[Riften]]
 
 He sells lots of stuff like potions and magic items.
 
-Seems to vibe with [[Veritaz P Nubton]] quite a bit
+Seems to vibe with [[Veritoss P Nubton]] quite a bit
 
 [Known bell locations]
 [[SteinHafen]] (hidden)

@@ -11,3 +11,11 @@
 * Jimini's Bell is obscured by a trash can and some cardboard boxes
 * Riften Times: [[King Lynell]] is visiting the [[Banana Islands]] to meet Grand Monkey [[Master Bobo]] for peace talks.
 	* *Relations between the Federation of Falconia and the Monkey Nation have been tense in recent times, mostly due to the mysterious deaths discovered around Monkey Island. On the 9th of Inferna, the two great leaders are planning to discuss the future of the two nation's -* (The page is ripped there)
+
+Team Arrives in SteinHafen
+
+Likely options after steinhafen:
+[[Capture or Kill Gregory]]
+[[Reclaim Martin's Fireworks]]
+[[Riften]]
+

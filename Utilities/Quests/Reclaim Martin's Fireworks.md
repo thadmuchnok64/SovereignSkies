@@ -50,3 +50,6 @@ Notable foes:
 [[Blartin]]
 If the team is able to defeat or go past them, they find two barrels of [[Busterdust]]
 3 [[BusterBombs]]
+
+- [ ] Need to make a battlemap for this encounter
+

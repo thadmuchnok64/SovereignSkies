@@ -3,7 +3,7 @@ heard of a vault in "The stars" untouched by humans
 
 Brendans character
 
-On the run because he and [[Veritaz P Nubton]] stole his previous crew's boat.
+On the run because he and [[Veritoss P Nubton]] stole his previous crew's boat.
 
 During the astral saga, he and Nubton contacted the [[Space God (Nhile)]]
 

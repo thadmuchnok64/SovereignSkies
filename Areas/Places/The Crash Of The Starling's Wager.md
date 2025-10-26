@@ -1,1 +1,1 @@
-The remains of [[Captain Solomon's Drift]]'s and [[Veritaz P Nubton]]'s old gang
+The remains of [[Captain Solomon's Drift]]'s and [[Veritoss P Nubton]]'s old gang
