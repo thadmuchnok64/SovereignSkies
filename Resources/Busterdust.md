@@ -36,4 +36,4 @@ Addiction: Negates all the previous benefits UNLESS the user consumes dust. Gets
 Also makes the user's skin "explosive" (x2 fire damage)
 
 
-Finnegan has used busterdust twice
+Finnegan has used busterdust [3] times
