@@ -1,4 +1,4 @@
-Ships require a lot of [[Wood]] and [[Bamboo Cloth]]
+fShips require a lot of [[Wood]] and [[Bamboo Cloth]]
 
 [Caravel]
 Health: *190/250

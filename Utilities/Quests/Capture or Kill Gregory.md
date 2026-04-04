@@ -1,5 +1,5 @@
 
-- [ ] The Queen's Speech ⏫ 
+- [x] The Queen's Speech ⏫ ✅ 2026-03-21
 
 Horns in the air are blaring. Everyone is sullen. The protests that the party have seen not too long ago have quieted down. All the folk near the city hall seem much more depressed. They lost their fire.
 
@@ -34,8 +34,48 @@ Thank you all.
 
 *She bows* and returns into the ornate gate behind her.
 
+___
+# Docking at the Banana Islands
 
+The gang arrives at a rickety dockside which seems to have seen better days.
 
+The gang seems to walk into a place which seemed to be bustling with trade and goodies. Now there is nobody. Strangley enough, a lot of the goods are untouched. 
+
+There is a dirt path up ahead which seems to lead into a jungle.
+
+The gang walks up to a forest of palm trees. 
+
+[ PER >= 14 check] A severed hand has been nailed to one of the trees. Seems to be human.
+
+[PER >= 16 - 10] There is very faint circus music you can hear in the distance.
+
+The gang sees a large red and black circus tent. There seems to be smoke coming out of the top of the tent.
+
+Inside the tent, there is a monkey in the middle playing an accordion
+
+Inside the tent, there are monkeys torturing humans and civilized monkeys. One human has been nailed to a wooden wheel with their limbs dislocated and mutilated.
+
+One monkey has been sawed in half vertically
+
+One human is currently being roasted over a fire.
+
+Theres a muscley monkey in a fighting ring beating a senile elderly woman to death. Surrounding that fighting ring, are a bunch of other monkies that have placed bets all on the muscely monkey going complete apeshit over the fight. The monkies arent even cheering on the muscley monkey, they're just booing the old lady.
+
+In the crowd, there is a large crowd of smaller monkeys which are all cheering, drinking out of coconuts, laughing and eating banana chips at all the horrors in front of you.
+
+At the center of one of the bleachers, sits gregory, and [[Prince Linus]] in shackles. Linus is being forced to watch the horrors in front of him by two other monkeys at his side who are holding spears.
+
+Outside of the prison tent, there walks a monkey going outside to take a piss in the forest.
+[Stealth DC 16 to sneak up on him]
+Group can interrogate him.
+
+Prince Linus is sleeping in Gregory's Quarters, which is essentially a large cave that he is sleeping in. Gregory sleeps on his side with his hands in a prayer gesture below his head. He has a big bubble on his nose that expands and contracts.
+
+Near the circus is the former city of [[Banana Islands]]
+
+Prince linus has a cage in that room. The key can be found in a shack thats been boarded up outside the circus.
+
+# ARCHIVED (No longer canon/relevant)
 
 The gang must travel to the banana islands
 Upon getting to the island, they are stopped by [[Lanzo]] and his goons

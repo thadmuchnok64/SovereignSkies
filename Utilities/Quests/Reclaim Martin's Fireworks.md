@@ -51,5 +51,5 @@ Notable foes:
 If the team is able to defeat or go past them, they find two barrels of [[Busterdust]]
 3 [[BusterBombs]]
 
-- [ ] Need to make a battlemap for this encounter
+- [x] Need to make a battlemap for this encounter ✅ 2026-03-21
 

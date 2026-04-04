@@ -15,7 +15,7 @@ he talks to rats on occasion.
 
 ___
 
-- [ ] 🔼 Melvin Talk To Finnegan
+- [x] 🔼 Melvin Talk To Finnegan ✅ 2026-03-21
 "Finnegan, I must come clean in regards to something.
 I know I may seem like a perfectly normal human, but my real name is actually Megnarok.
 I come from a land far beneath the earth... when the world was whole.

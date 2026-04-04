@@ -8,7 +8,7 @@ Slaver
 
 ___
 
-- [ ] Karliah is at [[Eleanor]]'s speech
+- [x] Karliah is at [[Eleanor]]'s speech ✅ 2026-03-21
 
 The drow is in the crowd, smiling.
 

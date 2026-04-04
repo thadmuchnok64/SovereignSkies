@@ -1,4 +1,4 @@
-- [ ] The gang recieves the bird...
+- [x] The gang recieves the bird... ✅ 2026-03-21
 A clockwork mechanism bird. Made of wood, brass, and glass, with a diamond in the center of the chest. The body of the bird is split in half by a moving gear.
 
 HP: 8/8
