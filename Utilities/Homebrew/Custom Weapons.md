@@ -9,3 +9,4 @@
 [Ammo] Pistol
 [Reload] Every 3rd shot
 [Weight] 5lb
+[Bayonet] 1d6 piercing

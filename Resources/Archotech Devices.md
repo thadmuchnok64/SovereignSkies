@@ -10,4 +10,6 @@ Known devices:
 [Info Bot] : Will attempt to scan the universe to answer any question the user asks. Also stores info of past events to scan throughout time. If unable to answer the question for any reason, will refund the dollar.
 [Medical Bot] : Resurrects whatever is in front of the machine. Also will cure addictions and sicknesses.
 [Performance Enhancing Bot] Adds 1 point to the chosen ability score. Costs 1 dollar
+	[2 dex] drift
+	[1 con] skugloh
 [Identifying Bot] Covered in dust due to lack of usage

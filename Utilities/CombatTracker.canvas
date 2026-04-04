@@ -1,18 +1,25 @@
 {
 	"nodes":[
-		{"id":"37044d8616c266ff","type":"text","text":"Finnegan 18","x":40,"y":-610,"width":250,"height":60},
-		{"id":"b0a6745b80b92807","type":"text","text":"Artyom 17++\n","x":580,"y":-550,"width":250,"height":60},
-		{"id":"d583cc48acecdf17","type":"text","text":"Vlada 17++\n","x":580,"y":-470,"width":250,"height":60},
-		{"id":"177cdd53100b8df4","type":"text","text":"Nubton 17","x":40,"y":-520,"width":250,"height":60},
-		{"id":"98961c58cd355120","type":"text","text":"Amadeus 7","x":40,"y":-280,"width":250,"height":60},
-		{"id":"76a12c15f9c21761","type":"text","text":"Drift 10\n","x":40,"y":-345,"width":250,"height":50},
-		{"id":"9fb3b679e226df22","type":"text","text":"bat2 11","x":40,"y":-440,"width":250,"height":60,"color":"1"},
-		{"id":"e30a5cda05e35a66","type":"text","text":"bat1 19","x":-400,"y":-700,"width":250,"height":60,"color":"1"},
-		{"id":"30b490787b19495d","type":"text","text":"Goomley 5","x":-400,"y":-180,"width":250,"height":60,"color":"1"},
-		{"id":"ffd595eab41a6c02","type":"text","text":"bat 3","x":-400,"y":-100,"width":250,"height":60,"color":"1"},
-		{"id":"f9e9aaa700ab97b9","type":"text","text":"Ludwig 2","x":40,"y":-180,"width":250,"height":60,"color":"1"},
-		{"id":"891e69cf82054e9c","type":"text","text":"Skunglo 21\n","x":40,"y":-700,"width":250,"height":60},
-		{"id":"358b2edae7a35374","type":"text","text":"Nico 1\n","x":40,"y":-100,"width":250,"height":50}
+		{"id":"50227051bc9e8a4f","type":"group","x":220,"y":-832,"width":300,"height":1273,"label":"Combat Rotation"},
+		{"id":"9e8b026104781d02","type":"group","x":740,"y":-880,"width":290,"height":520,"label":"Party"},
+		{"id":"d7ba1cdf1a5d0517","type":"group","x":1080,"y":-880,"width":290,"height":460,"label":"Ship"},
+		{"id":"de83f3386587f6a7","type":"text","text":"goon 2 | 18","x":240,"y":-675,"width":250,"height":55,"color":"1"},
+		{"id":"ffd595eab41a6c02","type":"text","text":"Arietti | 17","x":240,"y":-605,"width":250,"height":60,"color":"3"},
+		{"id":"76a12c15f9c21761","type":"text","text":"Drift 16\n","x":240,"y":-510,"width":250,"height":50,"color":"4"},
+		{"id":"30b490787b19495d","type":"text","text":"Blartin | 24","x":240,"y":-790,"width":250,"height":60,"color":"1"},
+		{"id":"444b3d97bca9737d","type":"text","text":"Harper","x":760,"y":-580,"width":250,"height":50,"color":"4"},
+		{"id":"177cdd53100b8df4","type":"text","text":"Nubton 12","x":240,"y":-380,"width":250,"height":60,"color":"4"},
+		{"id":"b0a6745b80b92807","type":"text","text":"Artyom\n","x":1100,"y":-860,"width":250,"height":55,"color":"4"},
+		{"id":"358b2edae7a35374","type":"text","text":"Nico\n","x":1100,"y":-685,"width":250,"height":50,"color":"4"},
+		{"id":"4499f4194ea582b7","type":"text","text":"BlusterSkull","x":1100,"y":-620,"width":250,"height":60,"color":"4"},
+		{"id":"42c15176fd0394af","type":"text","text":"Bristle","x":1100,"y":-490,"width":250,"height":50,"color":"4"},
+		{"id":"d583cc48acecdf17","type":"text","text":"Vlada\n","x":1100,"y":-760,"width":250,"height":50,"color":"4"},
+		{"id":"e30a5cda05e35a66","type":"text","text":"wonderbob | 11","x":850,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"c2ccd74ded94cec4","type":"text","text":"Melvin 2-","x":240,"y":110,"width":250,"height":60,"color":"4"},
+		{"id":"37044d8616c266ff","type":"text","text":"Finnegan 2","x":240,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"891e69cf82054e9c","type":"text","text":"Skunglo 6\n","x":240,"y":-200,"width":250,"height":60,"color":"4"},
+		{"id":"98961c58cd355120","type":"text","text":"Amadeus 6+","x":240,"y":-290,"width":250,"height":60,"color":"4"},
+		{"id":"83b757727d898e56","type":"text","text":"goon 1 | 4","x":240,"y":-110,"width":250,"height":70,"color":"1"}
 	],
 	"edges":[]
 }

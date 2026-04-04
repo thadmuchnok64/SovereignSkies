@@ -47,6 +47,9 @@ On a crit, you use the entire dice value instead of half.
 | --------------- | ----------- | ------ |
 | 1d8 +1 necrotic | Piercing    | 6 lbs  |
 
+[Amulet of the Nimble Knight] A necklace with a hand crafted miniature horse head.
+Lets you teleport in an L shape for a bonus action. Requires you to move 3 tiles forward, and one tile to the side.
+
 
 
 [Boots of Double Jump] User can perform an additional jump in mid air. 3 uses per long rest.
