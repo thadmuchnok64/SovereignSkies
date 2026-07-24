@@ -1,4 +1,4 @@
-Riften is unlike anything anybody in the party has seen before.
+ Riften is unlike anything anybody in the party has seen before.
 
 There is more brick than grass or dirt. The streets are fancily laid out. Theres street lights, tall buildings, fancy architecture. There seems to be a variety of different smells in the air. As the gang seems to enter the city center, they are greeted by the smells of cinnamon rolls, then smoke, then flowers, then garbage and sewage. Finnegan also seems to smell the sweet sweet smell of busterdust
 

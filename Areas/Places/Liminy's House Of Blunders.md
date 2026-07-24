@@ -1,9 +1,19 @@
 Magic shop in Olive Harbor.
 
+See [[Liminy]]
+
+
+Ornate dagger in the case. Seems magical.
+
+
+
+___
+
 
 Current orders:
 - [ ] 100g staff which is space themed
 
+[Starlight Staff]
 The staff resembles a large silver needle, with gold rims, and a big purple orb at the end. The orb of the staff displays beautiful constellations and nebulas from distant , unfamiliar lands.
 Around the orb, orbits a spiked metal rim that resembles the spikes from a sun.
 

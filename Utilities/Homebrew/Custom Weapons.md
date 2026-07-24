@@ -8,10 +8,15 @@
 [Ammo] Pistol
 [Reload] Every 3rd shot
 [Weight] 5lb
+<<<<<<< HEAD
 
 ___
 Dog armor
 
 Made of studded leather, can be loosened or tightened to fit large or small dogs
++2 ac
 
 +2 to the animals base ac
+=======
+[Bayonet] 1d6 piercing
+>>>>>>> origin/main

@@ -29,3 +29,9 @@ ___
 Harper wants to learn more about the [[Storm God (Zephyr)]]. She is going to task Finnegan with going to the eye of the storm and conducting some research with a new device she invented. Finnegan gets electrocuted by lightning and starts having time fuckery happen to him like Desmond from lost.
 
 #### Assistance building a machine from [[Skungloh]]
+
+
+___
+Talking to [[Finnegan]]
+
+learned that the gods control the weather. its all to their whims.

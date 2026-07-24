@@ -43,9 +43,16 @@ If the user successfully mind steals, they will not be able to do so again until
 When attacking with this weapon, you deal *half* damage but will *heal* equal to the amount of damage you do.
 On a crit, you use the entire dice value instead of half.
 
+[Linking Staddle]
+If a user is riding this saddle, both users will take their action on the highest turn order rolled by either the rider or the mount.
+Additionally, while a [friendly] creature is riding on this saddle, the mount gains +1 AC
+
 | Damage          | Damage Type | Weight |
 | --------------- | ----------- | ------ |
 | 1d8 +1 necrotic | Piercing    | 6 lbs  |
+
+[Amulet of the Nimble Knight] A necklace with a hand crafted miniature horse head.
+Lets you teleport in an L shape for a bonus action. Requires you to move 3 tiles forward, and one tile to the side.
 
 
 

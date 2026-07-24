@@ -11,8 +11,9 @@
 		{"id":"e437a933b15ff424","type":"text","text":"Timber Hearth\n(Fantasy Christmas)\nDays 1-5","x":-591,"y":-520,"width":250,"height":100,"color":"5"},
 		{"id":"f901d3f1fd5581cf","type":"text","text":"Water Celebration\n(swim parties, parades)\nDays 30-35\n","x":-226,"y":40,"width":352,"height":120,"color":"1"},
 		{"id":"e6dd1eed489ee25a","type":"text","text":"Each season is 60 days","x":-226,"y":-660,"width":351,"height":140,"color":"#000000"},
-		{"id":"06909fba41b0d5af","type":"text","text":"Current Day: 15th of Inferna, year 256 AU","x":-360,"y":360,"width":580,"height":60,"color":"#000000"},
-		{"id":"ce2f049afe6eb476","type":"text","text":"Unfrozen 30th of Newleaf, year 256 AU","x":-360,"y":260,"width":580,"height":60,"color":"#000000"}
+		{"id":"06909fba41b0d5af","type":"text","text":"Current Day: 17th of Inferna, year 256 AU","x":-360,"y":360,"width":580,"height":60,"color":"#000000"},
+		{"id":"ce2f049afe6eb476","type":"text","text":"Unfrozen 30th of Newleaf, year 256 AU","x":-360,"y":260,"width":580,"height":60,"color":"#000000"},
+		{"id":"aeaf593d00e7c7fa","type":"text","text":"Take 2 day of rations","x":-300,"y":480,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7f8cdb05f900294d","fromNode":"adfd019b9aff6f63","fromSide":"right","toNode":"7e87d94ec679a395","toSide":"left"},

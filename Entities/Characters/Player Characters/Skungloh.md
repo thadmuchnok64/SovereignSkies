@@ -10,3 +10,13 @@ I want to propose introducing skungloh to the [[Infernal God (Gwyn)]]
 Wants to be the biggest baddest pirate on the seas. Seeks infamy. 
 
 Wants to be like a dragon.
+
+___
+Worked for [[Pyyre]]
+
+
+[[Bunglo]]
+[[Chunkl]]
+[[Dungli]]
+___
+Crimson talons on black set of sails

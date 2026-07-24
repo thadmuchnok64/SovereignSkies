@@ -1,7 +1,8 @@
 fShips require a lot of [[Wood]] and [[Bamboo Cloth]]
 
 [Caravel]
-Health: *190/250
+Health: *250/250
+208
 Hits: None (ex: 2 Shots on Hull, 1 on sails)
 Speed (combat): 100ft
 Speed (travel): 10 mph
@@ -10,14 +11,15 @@ Sails AC: 13
 Front Cannon Slots: Harpoon Launcher, Cannon
 Back Cannon Slots: Cannon, Cannon
 
-| Ship Inventory |     |           |
-| -------------- | --- | --------- |
-| Boards         | 36  |           |
-| Cannon balls   | 32  |           |
-| Gunpowder      | 60  |           |
-| Rations        | 58  | 16 (meat) |
-| Nails          | 146 |           |
-| Empty barrels  | 8   |           |
+| Ship Inventory |     |                           |                                 |
+| -------------- | --- | ------------------------- | ------------------------------- |
+| Boards         | 33  |                           |                                 |
+| Cannon balls   | 32  |                           |                                 |
+| Gunpowder      | 60  |                           |                                 |
+| Rations        | 51  | 16 (meat -1 meat per day) | 120 lbs cheese (-4 lbs per day) |
+| Nails          | 134 |                           |                                 |
+| Empty barrels  | 8   |                           |                                 |
+|                |     |                           |                                 |
 
 
 [Ship Combat Actions]
@@ -57,3 +59,4 @@ A cannon is usually supported in a wooden frame with wheels. Before it can be fi
 
 Loading a cannon consumes 1 cannonball and 1 unit of gunpowder.
 
+10 fire damage per round

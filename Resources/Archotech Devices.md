@@ -9,5 +9,11 @@ Known devices:
 [Vigor Bot] : Will give the user +5 to their permanent max HP upon consumption of an [[Archotech Dollar]]. Requires stabbing the user's forearm violently with a million microscopic needles for 30 seconds.
 [Info Bot] : Will attempt to scan the universe to answer any question the user asks. Also stores info of past events to scan throughout time. If unable to answer the question for any reason, will refund the dollar.
 [Medical Bot] : Resurrects whatever is in front of the machine. Also will cure addictions and sicknesses.
+<<<<<<< HEAD
 [Performance Enhancing Bot] Adds 1 point to the chosen ability score. Costs 3 dollar
+=======
+[Performance Enhancing Bot] Adds 1 point to the chosen ability score. Costs 1 dollar
+	[2 dex] drift
+	[1 con] skugloh
+>>>>>>> origin/main
 [Identifying Bot] Covered in dust due to lack of usage

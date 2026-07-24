@@ -15,10 +15,11 @@ limit 100
 
 # Group and sort the output:
 group by filename
-sort by priority reverse
+sort by date reverse
 sort by description
 
 # Optionally, ask Tasks to explain how it interpreted this query:
 explain
 ```
+
 
