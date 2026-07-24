@@ -8,3 +8,6 @@ The ship seems decked at a small island near autumnfall. There seems to be a nat
 This vessel consists of 12 dwarves and an orc. All of them consider themselves to be dwarves.
 
 The orc mans the cannons. The dwarves are able to stuff themselves into barrels. The orc can then fire the cannons to shoot the dwarves onto the team's deck
+
+The dwarves will then realize that the party intends to kill [[Gregory E. Gobblemore]].
+When they realize this, they will attempt a truce to fight this gorilla.
