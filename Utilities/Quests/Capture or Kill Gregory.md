@@ -95,3 +95,33 @@ They must walk through a small village of monkey huts. One survivor is found.
 
 ___
 Gregory kills [[King Lynell]]
+~~~
+
+When the gang gets to the banana islands, they are met with a quiet harbor. There is a gentle wind blowing through the palm trees. There appears to be some shops on the dock that have had most of their good stolen. Some common goods can still be found though.
+
+There is a bit of a trek of a dirt path, which gets denser with palm trees the further the gang goes down it.
+
+There are two paths. There is a sign. It looks like the left sign has words on it, but the right sign seems to have ripped off.
+
+The left sight reads: Banana Town
+
+___
+# BANANA TOWN
+Banana town kinda has a western thing going on.
+
+theres a tumble weed passing through town.
+theres a western bar with a suspenders monkey wiping down a glass. theres a ton of banana rum on the shelf. The bar is largely empty but inside sits [[Detective Grizzly]].
+
+Detective grizzly lines:
+"So you fellows are here to find gregory I presume?"
+"I've been interviewing what remains of the citizens around these parts"
+
+The monkey Bartender named: [[Minnie]]
+Minnie lines 
+"The monkey cultists spared all those in the tavern that night. They came in with their prisoners, demanding we feed the cult and their prisoners. Although they werent picky with the rations for the prisoners."
+
+"The monkeys seemed to settle down in the old orchard grounds"
+
+___
+# THE CIRCUS
+on the righthand path, the gang reaches a clearing.
