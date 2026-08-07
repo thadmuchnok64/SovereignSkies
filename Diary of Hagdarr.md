@@ -1,0 +1,1 @@
+[[Hagdarr]]'s dairy. Talks about the dwarves taking him into the fold.

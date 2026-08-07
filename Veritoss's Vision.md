@@ -1,0 +1,1 @@
+Veritoss knew we'd go to the future. [[Space God (Nhile)]] gave him some kind of goal to stay in the future.

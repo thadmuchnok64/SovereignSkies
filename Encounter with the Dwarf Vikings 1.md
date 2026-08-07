@@ -1,0 +1,17 @@
+
+- [ ] On the way to banana islands, the gang may encounter a group of dwarves and an orc.
+
+The ship seems decked at a small island near autumnfall. There seems to be a naturey ship which is smoking, and slowly drifting into the abyss below. 
+
+**it seems to be a ship of elves that was raided by dwarf vikings**
+# Blartin's Trintlock
+
+This vessel consists of 6 dwarves and an orc. All of them consider themselves to be dwarves.
+
+The orc mans the cannons. The dwarves are able to stuff themselves into barrels. The orc can then fire the cannons to shoot the dwarves onto the team's deck
+
+___
+enemy ship
+
+340 hp
+5 damage per turn (fire)
