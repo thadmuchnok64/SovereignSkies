@@ -1,5 +1,5 @@
 
-- [ ] On the way to banana islands, the gang may encounter a group of dwarves and an orc.
+- [x] On the way to banana islands, the gang may encounter a group of dwarves and an orc. ✅ 2026-08-07
 
 The ship seems decked at a small island near autumnfall. There seems to be a naturey ship which is smoking, and slowly drifting into the abyss below. 
 
@@ -18,3 +18,10 @@ The orc mans the cannons. The dwarves are able to stuff themselves into barrels.
 
 The dwarves will then realize that the party intends to kill [[Gregory E. Gobblemore]].
 When they realize this, they will attempt a truce to fight this gorilla.
+
+___
+The dwarves' backstory:
+[[Starbrok Raiders]]
+[[Poindexter]] is their leader
+
+The dwarves have been friendly with the [[Elves of the Forest]]

@@ -1,5 +1,5 @@
 A large faction rivalling in size to the [Federation]
 
-Wiking like
+Viking like
 
 primarily resides in the [[South Western Region]]
